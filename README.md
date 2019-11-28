@@ -16,3 +16,6 @@ The course is supported by [Ubisoft Sofia](https://ubisoft.com) and [Kipi Intera
 git clone https://github.com/k1p1/UE4TopDownARPG.git FOLDERPATH   
 where FOLDERPATH is the path to the folder you want to store the project in (for example C:\Projects\)
 * Mouse right click on TopDownARPG.uproject -> "Generate Visual Studio Project Files"
+
+#Area Time Slow
+Press 1 to spawn sphere where stuff is slower
